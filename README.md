@@ -74,3 +74,7 @@
 	    * Класс `object` и его методы [тык](https://metanit.com/sharp/tutorial/3.10.php)
 	    * Приведение типов [тык](https://professorweb.ru/my/csharp/charp_theory/level3/3_8.php)
 	    * Упаковка и распаковка [тык^](https://docs.microsoft.com/ru-ru/dotnet/csharp/programming-guide/types/boxing-and-unboxing)
+---
+Домашние задания
+---
+* [Домашнее задание 1](/01/task.md)
